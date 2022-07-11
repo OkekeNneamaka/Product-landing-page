@@ -1,0 +1,80 @@
+#body-container{
+    width: 1000px;
+    height: 2000px;
+    background-color:rgb(236, 223, 229);
+    margin:auto;
+    padding:15px;
+    color: rgb(59, 17, 37);
+    font-size: 22px;
+    border-radius: 5%;
+    border: 1px solid rgb(22, 9, 22);
+}
+
+#nav-info{
+    flex-basis: 40%;
+}
+
+#header{
+    flex-basis: 60%;
+}
+
+#logo{
+    width: 150px;
+    height: 100px;
+}
+
+#header-container{
+    display:flex;
+    margin-top: 15px;
+    box-shadow: 2px 2px rgb(32, 12, 28);
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+}
+
+#video-product{
+    text-align: center;
+}
+
+#about{
+    display: flex;
+    margin:15px;
+}
+
+#orangehat{
+    flex-basis: 35%;
+}
+#about-us{
+    flex-basis: 65%;
+}
+
+#product-info{
+    flex-basis: 70%;
+}
+
+#halocrown{
+    flex-basis: 30%;
+}
+#products{
+    display: flex;
+    margin: 15px;
+}
+
+#delivery{
+    display: flex;
+    margin:15px;
+}
+#delivery-info{
+    flex-basis: 65%;
+}
+
+#yellowturban{
+    flex-basis: 35%;
+}
+
+#reviews{
+    display: flex;
+    justify-content: space-around;
+}
